@@ -3,11 +3,12 @@ Unolet Utils es un conjunto de módulos en Python que ofrecen un conjunto de uti
 
 [www.unolet.com](http://www.unolet.com)
 
+## Contenido
 
-## fuente
+### fuente
 Utilidades escritas en Python.
 
-## static
+### static
 Archivos estáticos.
 
 * js: módulos escritos en Javascript.
@@ -15,7 +16,8 @@ Archivos estáticos.
 * img: Imágenes en formatos SVG, PNG, entre otros.
 
 
-Algunos módulos Python requiren dependencias como:
+
+## Algunos módulos Python requiren dependencias como:
 * reportlab para el módulo Report.
 
 
